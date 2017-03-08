@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExemploFile</string>
+    <string name="criar_arquivo">Criar Arquivo</string>
+    <string name="ler_arquivo">Ler Arquivo</string>
+</resources>
